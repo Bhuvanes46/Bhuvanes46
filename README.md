@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvanes46&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvanes46" /> </p>
 
-- 🌱 I’m currently learning **Frappe ERP next,Javascript**
+- 🌱 I’m currently Working as Python Developer**
 
 - 💬 Ask me about **Python,SQL**
 
